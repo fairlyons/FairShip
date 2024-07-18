@@ -18,6 +18,7 @@ it in future.
 
 * Octant symmetry was incorrect for B_z when using field maps (reported and
   fixed by M. Ferro-Luzzi)
+* Fix missing includes in ecalMatch and ecalReco
 
 ### Changed
 
