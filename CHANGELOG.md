@@ -16,6 +16,9 @@ it in future.
 
 ### Fixed
 
+* Octant symmetry was incorrect for B_z when using field maps (reported and
+  fixed by M. Ferro-Luzzi)
+
 ### Changed
 
 * shipStrawTracking: Move to argparse
