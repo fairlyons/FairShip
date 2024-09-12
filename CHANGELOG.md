@@ -27,6 +27,7 @@ it in future.
 ### Removed
 
 * Remove bundled genfit
+* Remove preshower and CaloDesign 1 (TP+Preshower)
 
 ## 24.10 - Freiburg
 
