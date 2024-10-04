@@ -29,6 +29,8 @@ it in future.
 
 * Remove bundled genfit
 * Remove preshower and CaloDesign 1 (TP+Preshower)
+* Remove online, please see charmdet and muflux branches for respective versions
+* Remove charmdet, please see charmdet branch for latest version
 
 ## 24.10 - Freiburg
 

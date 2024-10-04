@@ -198,7 +198,6 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS 1)
 add_subdirectory(shipdata)
 add_subdirectory(passive)
 add_subdirectory(nutaudet)
-#add_subdirectory(charmdet)
 add_subdirectory(ecal)
 add_subdirectory(splitcal)
 add_subdirectory(hcal)
@@ -211,7 +210,6 @@ add_subdirectory(shipgen)
 add_subdirectory(field)
 add_subdirectory(pid)
 #add_subdirectory(muonShieldOptimization)
-# add_subdirectory(online)  is not anymore compatible with FairRoot
 #add_subdirectory(millepede)
 
 add_custom_target(  # make relative links to folders
