@@ -33,6 +33,7 @@ it in future.
 * Remove charmdet, please see charmdet branch for latest version
 * Remove conditions DB, will almost certainly look different, copy in git
   history for reference
+* Remove obsolete renaming scripts
 
 ## 24.10 - Freiburg
 
