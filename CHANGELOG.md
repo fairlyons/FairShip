@@ -31,6 +31,8 @@ it in future.
 * Remove preshower and CaloDesign 1 (TP+Preshower)
 * Remove online, please see charmdet and muflux branches for respective versions
 * Remove charmdet, please see charmdet branch for latest version
+* Remove conditions DB, will almost certainly look different, copy in git
+  history for reference
 
 ## 24.10 - Freiburg
 
