@@ -41,6 +41,7 @@ Set(LIBRARY_NAME ShipField)
 Set(DEPENDENCIES
     Base
     FairLogger::FairLogger
+    ${VMCLIB}
 )
 
 GENERATE_LIBRARY()
